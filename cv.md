@@ -39,3 +39,7 @@ My motivation is very high and I believe that everything will work out.
     + [LearnJavaScript](http://learn.javascript.ru/ "Learnjavascript")
     + [Codecademy](https://www.codecademy.com/profiles/mamaNikol/ "Codecademy")
 - - -
+**Code example**
+- - -
+**English:**
+Pre-intermedia
