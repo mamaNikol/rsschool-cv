@@ -1,1 +1,1 @@
-# rsschool-cvhttps://mamaNikol.github.io/rsschool-cv/cv
+# https://mamaNikol.github.io/rsschool-cv/cv
