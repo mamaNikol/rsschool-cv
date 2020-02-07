@@ -22,3 +22,20 @@ I know that becoming a sought-after professional developer without a higher tech
 Therefore, the RSschool for me is a chance to get into the professional field, to get the necessary skills and possibly dating!
 My motivation is very high and I believe that everything will work out.
 - - -
+**Skills:**
+- - - 
++ Version control: Github
+  
++ Programm languages and technologies:
+  + HTML
+  + CSS
+  + JavaScript
+- - -
+**Education:**
+  + Kursk State Medical University, pharmasist
+  + Kursk State Medical University, economist manager
+  + Online courses:
+    + [Hexlet](http://ru.hexlet.io/ "Hexlet")
+    + [LearnJavaScript](http://learn.javascript.ru/ "Learnjavascript")
+    + [Codecademy](https://www.codecademy.com/profiles/mamaNikol/ "Codecademy")
+- - -
